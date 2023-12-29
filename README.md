@@ -18,7 +18,7 @@ Calculate Bill: Multiply the number of units consumed by the rate per unit to ca
 Display Bill: Print the calculated bill to the console.
 
 # CODE: 9(a)
-
+```
 <!DOCTYPE html>
 <html>
 <head>
@@ -45,6 +45,7 @@ Display Bill: Print the calculated bill to the console.
     </script>
 </body>
 </html>
+```
 
 # OUTPUT:9(a):
 ![Alt text](image.png)
@@ -67,6 +68,7 @@ In each iteration of the loop, multiply the current number i with result and upd
 After the loop ends, result will hold the factorial of n. Return result.
 
 # CODE: 9(b)
+```
 <!DOCTYPE html>
 <html>
 <head>
@@ -93,6 +95,7 @@ After the loop ends, result will hold the factorial of n. Return result.
     </script>
 </body>
 </html>
+```
 
 # OUTPUT:9(b):
 ![Alt text](image-1.png)
@@ -115,6 +118,7 @@ If the number is prime, increment the count and print the number.
 Repeat steps 2 and 3 until ‘N’ prime numbers have been generated.
 
 # CODE: 9(c)
+```
 <!DOCTYPE html>
 <html>
 <body>
@@ -148,6 +152,7 @@ function isPrime(num) {
 
 </body>
 </html>
+```
 
 # OUTPUT:9(c):
 ![Alt text](image-2.png)
@@ -170,6 +175,7 @@ Call the calculate function with the numbers and operator as arguments to perfor
 Print the result of the calculation.
 
 # CODE: 9(d)
+```
 <!DOCTYPE html>
 <html>
 <body>
@@ -222,9 +228,11 @@ function divide() {
 
 </body>
 </html>
+```
 
 # OUTPUT:9(d):
 ![Alt text](image-3.png)
+
 ![Alt text](image-4.png)
 ![Alt text](image-5.png)
 
@@ -246,6 +254,7 @@ The JavaScript function corresponding to the operation is executed. This functio
 The result is displayed on the webpage. The user can perform more operations or enter new text. The process repeats from Step 2.
 
 # CODE: 9(e)
+```
 <!DOCTYPE html>
 <html>
 <body>
@@ -278,6 +287,7 @@ function reverse() {
 
 </body>
 </html>
+```
 
 # OUTPUT:9(e):
 ![Alt text](image-6.png)
@@ -302,6 +312,7 @@ The function checks if the name and email fields are filled out and if the email
 The function updates the corresponding error message spans with the error messages. If a field is entered incorrectly, the error message is displayed on the webpage. The user can correct the errors and submit the form again. The process repeats from Step 2.
 
 # CODE: 9(f)
+```
 <!DOCTYPE html>
 <html>
 <body>
@@ -342,6 +353,7 @@ function validateForm() {
 
 </body>
 </html>
+```
 
 
 # OUTPUT:9(f):
